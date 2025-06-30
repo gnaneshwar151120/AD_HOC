@@ -92,14 +92,14 @@ This project uses the `gdb023` (aka `atliq_hardware_db`) MySQL database, which c
 
 | No. | Objective | Output Fields | Solution |
 |-----|-----------|----------------|----------|
-| 1 | Markets where Atliq Exclusive operates in APAC | `market_name` | [🔗 Q1]([solutions/Q1_market_operations.sql](https://github.com/gnaneshwar151120/AD_HOC/blob/main/SOLUTIONS/REQUEST1.sql)) |
-| 2 | % increase in unique products (2021 vs 2020) | `unique_products_2020`, `unique_products_2021`, `percentage_chg` | [🔗 Q2]((https://github.com/gnaneshwar151120/AD_HOC/blob/main/SOLUTIONS/REQUEST2.sql)) |
-| 3 | Unique product counts by segment | `segment`, `product_count` | [🔗 Q3]([solutions/Q3_segment_product_counts.sql](https://github.com/gnaneshwar151120/AD_HOC/blob/main/SOLUTIONS/REQUEST3.sql)) |
-| 4 | Segment with most increase in unique products | `segment`, `product_count_2020`, `product_count_2021`, `difference` | [🔗 Q4]((https://github.com/gnaneshwar151120/AD_HOC/blob/main/SOLUTIONS/REQUEST4.sql)) |
-| 5 | Products with highest/lowest manufacturing costs | `product_code`, `product`, `manufacturing_cost` | [🔗 Q5]((https://github.com/gnaneshwar151120/AD_HOC/blob/main/SOLUTIONS/REQUEST5.sql)) |
+| 1 | Markets where Atliq Exclusive operates in APAC | `market_name` | [🔗 Q1](https://github.com/gnaneshwar151120/AD_HOC/blob/main/SOLUTIONS/REQUEST1.sql) |
+| 2 | % increase in unique products (2021 vs 2020) | `unique_products_2020`, `unique_products_2021`, `percentage_chg` | [🔗 Q2](https://github.com/gnaneshwar151120/AD_HOC/blob/main/SOLUTIONS/REQUEST2.sql) |
+| 3 | Unique product counts by segment | `segment`, `product_count` | [🔗 Q3](https://github.com/gnaneshwar151120/AD_HOC/blob/main/SOLUTIONS/REQUEST3.sql) |
+| 4 | Segment with most increase in unique products | `segment`, `product_count_2020`, `product_count_2021`, `difference` | [🔗 Q4](https://github.com/gnaneshwar151120/AD_HOC/blob/main/SOLUTIONS/REQUEST4.sql) |
+| 5 | Products with highest/lowest manufacturing costs | `product_code`, `product`, `manufacturing_cost` | [🔗 Q5](https://github.com/gnaneshwar151120/AD_HOC/blob/main/SOLUTIONS/REQUEST5.sql) |
 | 6 | Top 5 Indian customers by avg. discount (2021) | `customer_code`, `customer`, `average_discount_percentage` | [🔗 Q6](https://github.com/gnaneshwar151120/AD_HOC/blob/main/SOLUTIONS/REQUEST6.sql) |
-| 7 | Monthly gross sales for Atliq Exclusive | `month`, `year`, `gross_sales_amount` | [🔗 Q7]((https://github.com/gnaneshwar151120/AD_HOC/blob/main/SOLUTIONS/REQUEST7.sql)) |
-| 8 | Quarter with max sold quantity in 2020 | `quarter`, `total_sold_quantity` | [🔗 Q8]((https://github.com/gnaneshwar151120/AD_HOC/blob/main/SOLUTIONS/REQUEST8.sql)) |
+| 7 | Monthly gross sales for Atliq Exclusive | `month`, `year`, `gross_sales_amount` | [🔗 Q7](https://github.com/gnaneshwar151120/AD_HOC/blob/main/SOLUTIONS/REQUEST7.sql) |
+| 8 | Quarter with max sold quantity in 2020 | `quarter`, `total_sold_quantity` | [🔗 Q8](https://github.com/gnaneshwar151120/AD_HOC/blob/main/SOLUTIONS/REQUEST8.sql) |
 | 9 | Top contributing channel in 2021 | `channel`, `gross_sales_mln`, `percentage` | [🔗 Q9](https://github.com/gnaneshwar151120/AD_HOC/blob/main/SOLUTIONS/REQUEST9.sql) |
 | 10 | Top 3 products by division (2021) | `division`, `product_code`, `product`, `total_sold_quantity`, `rank_order` | [🔗 Q10](https://github.com/gnaneshwar151120/AD_HOC/blob/main/SOLUTIONS/REQUEST10.sql) |
 
@@ -146,4 +146,5 @@ This dashboard enables:
 This project is licensed under the **MIT License**.  
 Fork it, extend it, and give credit if reused.  
 
-![Dashboard Screenshot](https://imgur.com/a/4eauNgf)
+![Dashboard Screenshot]![Screenshot 2025-06-30 125844](https://github.com/user-attachments/assets/4cbe2d74-6c4e-4fa2-a3a3-ed022cff3be2)
+
