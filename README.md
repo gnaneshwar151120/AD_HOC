@@ -146,5 +146,10 @@ This dashboard enables:
 This project is licensed under the **MIT License**.  
 Fork it, extend it, and give credit if reused.  
 
-![Dashboard Screenshot]![Screenshot 2025-06-30 125844](https://github.com/user-attachments/assets/4cbe2d74-6c4e-4fa2-a3a3-ed022cff3be2)
+
+![Screenshot 2025-06-30 125844](https://github.com/user-attachments/assets/4cbe2d74-6c4e-4fa2-a3a3-ed022cff3be2)
+![image](https://github.com/user-attachments/assets/0dc2d4f9-2899-4421-a94a-f07c0b895c47)
+![image](https://github.com/user-attachments/assets/711ad0d7-6aee-483b-b254-12f9a7f228ec)
+
+
 
